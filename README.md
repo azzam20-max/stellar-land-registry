@@ -1,4 +1,4 @@
-# 🏡 Stellar Land Registry — Decentralized Land Certificate System (Project Melawan Mafia Tanah)
+# 🏡 Stellar Land Registry — Decentralized Land Certificate System
 
 A blockchain-based land ownership registry built on **Stellar Soroban** to prevent land mafia, duplicate certificates, and fraudulent ownership transfers. All records are stored on-chain — transparent, immutable, and tamper-proof.
 
