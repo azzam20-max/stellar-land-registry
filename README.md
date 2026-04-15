@@ -34,7 +34,7 @@ Contract ID: YOUR_CONTRACT_ID_HERE
 Network: Stellar Testnet
 ```
 
-> Replace `YOUR_CONTRACT_ID_HERE` with your actual contract ID after deploying via Soroban Studio.
+> Replace `CDYEHMU4Z56DNV775LHDWK4PFBGBHB5QEJHLADSYMA26TQV5GV74JSJJ` with your actual contract ID after deploying via Soroban Studio.
 
 ---
 
