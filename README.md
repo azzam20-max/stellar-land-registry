@@ -30,7 +30,7 @@ This smart contract provides a decentralized, on-chain solution where every land
 ## 🔗 Testnet Smart Contract ID
 
 ```
-Contract ID: CDYEHMU4Z56DNV775LHDWK4PFBGBHB5QEJHLADSYMA26TQV5GV74JSJJ
+Contract ID: CB4OEYIWSOKKV3V2SROK2WD6R4K55EFUF6XRJCYB5ED3YI3JIG5MNEM4
 Network: Stellar Testnet
 ```
 
