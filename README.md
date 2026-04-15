@@ -30,11 +30,10 @@ This smart contract provides a decentralized, on-chain solution where every land
 ## 🔗 Testnet Smart Contract ID
 
 ```
-Contract ID: YOUR_CONTRACT_ID_HERE
+Contract ID: CDYEHMU4Z56DNV775LHDWK4PFBGBHB5QEJHLADSYMA26TQV5GV74JSJJ
 Network: Stellar Testnet
 ```
 
-> Replace `CDYEHMU4Z56DNV775LHDWK4PFBGBHB5QEJHLADSYMA26TQV5GV74JSJJ` with your actual contract ID after deploying via Soroban Studio.
 
 ---
 
