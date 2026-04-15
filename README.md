@@ -162,8 +162,4 @@ stellar-land-registry/
 - [Soroban Studio](https://stellar.org/soroban) — Browser-based IDE for writing and deploying contracts
 - **Rust** (`no_std`) — Systems programming language for smart contracts
 
----
 
-## 📄 License
-
-MIT License — Free to use and modify.
