@@ -41,7 +41,7 @@ Network: Stellar Testnet
 ## 📸 Testnet Screenshot
 
 <!-- Replace with your actual screenshot after deploying -->
-![Testnet Screenshot](./screenshot.png)
+![Testnet Screenshot](./Screenshot.png)
 
 ---
 
